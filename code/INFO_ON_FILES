@@ -1,0 +1,39 @@
+The following files are for soil data preprocessing:
+attribute_tables.py
+basemap.py
+create_fishnet_full_extent.py
+dosso_fish.py
+dosso_fish_morepieces.py
+dosso_fish_pieces.py
+dosso_index_base.py
+dosso_index_feature_creation.py
+dosso_index_fishnet_creation.py
+dsso_index_hwsd_joinmerge.py
+dosso_index_hwsd_merge.py
+dosso_index_slope.py
+index_fish.py
+index_fix.py
+
+The following files are for LCC calculation (full process): 
+SoilGrids_LCC_big_script.ipynb
+HWSD_LCC_big_script.ipynb
+HWSD_LCC_alg.py
+HWSD_LCC_fuctions.py
+HWSD_LCC_functions.pyc
+
+
+The following files are for LCC algorithm tweaking: 
+LCC_classification_SoilGrids.ipynb
+LCC_classification_HWSD.ipynb
+LCC_Soilgrids_Updated.ipynb
+LCC_HWSD_updated.ipynb
+
+The following files are for visualization and exploration: 
+descriptive_stats_12.5m_full_dosso.ipynb
+dosso_descriptive_stats_edit.ipynb
+
+The following files are for Soil Moisture Data Prep and Validation work: 
+soil_moisture_validation.ipynb
+Soil_Moisture_DataPrep.ipynb
+Xarray_LCC_processing.ipynb
+
